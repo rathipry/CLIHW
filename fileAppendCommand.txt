@@ -1,0 +1,6 @@
+#To append the command line inputs to file
+echo 'this has to be added at the end of file' >> source.txt
+
+
+# To copy the content of one file and append it to another file
+cat source.txt >> destination.txt
