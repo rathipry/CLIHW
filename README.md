@@ -1,1 +1,1 @@
-##learning intergration of git with intelliJ
+## learning intergration of git with intelliJ
