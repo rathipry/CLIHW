@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo 'Enter first number to add : '
 read num1
 echo 'enter second number to add : '
